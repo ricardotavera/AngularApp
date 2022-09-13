@@ -1,0 +1,18 @@
+.nav-moon {
+    background-color: #1944bf !important;
+    color: #fff !important;
+    padding: 7px 40px;
+}
+
+.navbar-collapse{
+    display: flex !important;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    align-content: flex-start;
+     
+    a {
+        color: #fff;
+    }
+}
+
